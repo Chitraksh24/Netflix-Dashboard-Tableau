@@ -5,11 +5,11 @@ It provides insights into trends in Netflix’s global catalog.
 
 ## 🛠 Tools Used
 - Tableau Desktop
-- Excel / CSV dataset (if applicable)
+- Excel / CSV dataset
 
 ## 📂 Files
 - `Netflix Dashboard.twb` – Tableau workbook file
-- `preview.png` – Dashboard snapshot
+- `dashboardimage.png` – Dashboard snapshot
 
 ## 🚀 How to Open
 1. Download this repository.
