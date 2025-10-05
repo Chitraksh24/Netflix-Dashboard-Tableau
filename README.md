@@ -16,4 +16,4 @@ It provides insights into trends in Netflix’s global catalog.
 2. Open `Netflix Dashboard.twb` using Tableau Desktop.
 
 ## 📸 Preview
-![Dashboard Preview](preview.png)
+![Dashboard Preview](dashboardimage.png)
